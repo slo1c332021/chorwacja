@@ -1,0 +1,33 @@
+body
+{
+	text-align: center;
+	background-color: #008080; 
+	font-family: Impact;
+	font-size: 25px;
+	color: #6ECF91;
+}
+
+h1
+{
+	
+	font-size: 60px;
+	color: #000080 !important;
+}
+
+/* Nieodwiedzony link */
+a:link
+{
+	color: blue;
+}
+
+/* Odwiedzony link */
+a:visited
+{
+	color:blue;
+}
+
+/* Link po najechaniu kursorem */
+a:hover
+{
+	color: #00FFFF;
+}
